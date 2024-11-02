@@ -2,3 +2,4 @@ tmp/*pkl
 tmp/*gz
 **/.DS_Store
 
+__pycache__
